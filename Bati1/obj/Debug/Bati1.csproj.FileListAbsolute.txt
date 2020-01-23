@@ -1,0 +1,14 @@
+C:\Users\Batı\source\repos\Bati1\Bati1\bin\Debug\Bati1.exe.config
+C:\Users\Batı\source\repos\Bati1\Bati1\bin\Debug\Bati1.exe
+C:\Users\Batı\source\repos\Bati1\Bati1\bin\Debug\Bati1.pdb
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.csprojAssemblyReference.cache
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.FrmGiris.resources
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.Properties.Resources.resources
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.csproj.GenerateResource.cache
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.exe
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.pdb
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.Frmman.resources
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.Frmwoman.resources
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.FrmBiletIslemleri.resources
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.FrmOdeme.resources
+C:\Users\Batı\source\repos\Bati1\Bati1\obj\Debug\Bati1.FrmOdemeDuzenleme.resources
